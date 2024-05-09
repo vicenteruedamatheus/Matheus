@@ -1,0 +1,18 @@
+form{
+    width: 380px;
+    height: 380px;
+    background-color: rgb(148, 72, 21);
+    text-align: center;
+}
+
+.título2{
+    font-size: small;
+}
+
+h1{
+    color: white;
+    border-color: black;
+
+}
+
+
